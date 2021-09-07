@@ -1,0 +1,12 @@
+C:\Users\Sasha.Doroshkevich\Desktop\С#\FinalProject_OnlineShop\FinalProject_OnlineShop_Models\bin\Debug\FinalProject_OnlineShop_Models.dll
+C:\Users\Sasha.Doroshkevich\Desktop\С#\FinalProject_OnlineShop\FinalProject_OnlineShop_Models\bin\Debug\FinalProject_OnlineShop_Models.pdb
+C:\Users\Sasha.Doroshkevich\Desktop\С#\FinalProject_OnlineShop\FinalProject_OnlineShop_Models\obj\Debug\FinalProject_OnlineShop_Models.csprojAssemblyReference.cache
+C:\Users\Sasha.Doroshkevich\Desktop\С#\FinalProject_OnlineShop\FinalProject_OnlineShop_Models\obj\Debug\FinalProject_OnlineShop_Models.csproj.CoreCompileInputs.cache
+C:\Users\Sasha.Doroshkevich\Desktop\С#\FinalProject_OnlineShop\FinalProject_OnlineShop_Models\obj\Debug\FinalProject_OnlineShop_Models.dll
+C:\Users\Sasha.Doroshkevich\Desktop\С#\FinalProject_OnlineShop\FinalProject_OnlineShop_Models\obj\Debug\FinalProject_OnlineShop_Models.pdb
+C:\Users\Roman\Desktop\FinalProject_OnlineShop\FinalProject_OnlineShop_Models\bin\Debug\FinalProject_OnlineShop_Models.dll
+C:\Users\Roman\Desktop\FinalProject_OnlineShop\FinalProject_OnlineShop_Models\bin\Debug\FinalProject_OnlineShop_Models.pdb
+C:\Users\Roman\Desktop\FinalProject_OnlineShop\FinalProject_OnlineShop_Models\obj\Debug\FinalProject_OnlineShop_Models.csproj.AssemblyReference.cache
+C:\Users\Roman\Desktop\FinalProject_OnlineShop\FinalProject_OnlineShop_Models\obj\Debug\FinalProject_OnlineShop_Models.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\FinalProject_OnlineShop\FinalProject_OnlineShop_Models\obj\Debug\FinalProject_OnlineShop_Models.dll
+C:\Users\Roman\Desktop\FinalProject_OnlineShop\FinalProject_OnlineShop_Models\obj\Debug\FinalProject_OnlineShop_Models.pdb
